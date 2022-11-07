@@ -1,0 +1,28 @@
+//网络搜集，未测试有效性
+//更新于 2022.11.7
+
+{
+"storeHouse": [
+
+{ "sourceName": "jiekou①号", "sourceUrl": "http://jiekou.gq/zb/1.html" }, 
+{ "sourceName": "jiekou②号", "sourceUrl": "http://jiekou.gq/zb/2.html" }, 
+{ "sourceName": "jiekou③号", "sourceUrl": "http://jiekou.gq/zb/3.html" }, 
+{ "sourceName": "jiekou④号", "sourceUrl": "http://jiekou.gq/zb/4.html" }, 
+{ "sourceName": "jiekou⑤号", "sourceUrl": "http://jiekou.gq/zb/5.html" }, 
+{ "sourceName": "jiekou⑥号", "sourceUrl": "http://jiekou.gq/zb/6.html" }, 
+{ "sourceName": "jiekou⑦号", "sourceUrl": "http://jiekou.gq/zb/7.html" }, 
+{ "sourceName": "jiekou⑧号", "sourceUrl": "http://jiekou.gq/zb/8.html" }, 
+{ "sourceName": "jiekou⑨号", "sourceUrl": "http://jiekou.gq/zb/9.html" }, 
+{ "sourceName": "jiekou⑩号", "sourceUrl": "http://jiekou.gq/zb/10.html" }, 
+{ "sourceName": "jiekou①①号", "sourceUrl": "http://jiekou.gq/zb/11.html" }, 
+{ "sourceName": "jiekou①②号", "sourceUrl": "http://jiekou.gq/zb/12.html" }, 
+{ "sourceName": "jiekou①③号", "sourceUrl": "http://jiekou.gq/zb/13.html" }, 
+{ "sourceName": "jiekou①④号", "sourceUrl": "http://jiekou.gq/zb/14.html" }, 
+{ "sourceName": "jiekou①⑤号", "sourceUrl": "http://jiekou.gq/zb/15.html" }, 
+{ "sourceName": "jiekou①⑥号", "sourceUrl": "http://jiekou.gq/zb/16.html" }, 
+{ "sourceName": "jiekou①⑦号", "sourceUrl": "http://jiekou.gq/zb/17.html" }, 
+{ "sourceName": "jiekou①⑧号", "sourceUrl": "http://jiekou.gq/zb/18.html" }, 
+{ "sourceName": "jiekou①⑨号", "sourceUrl": "http://jiekou.gq/zb/19.html" }
+
+]
+}
