@@ -1,44 +1,18 @@
+//自用多仓接口，勿外传！！！
+更新于 2022.11.7
+
 {
 "storeHouse": [
 
-{ "sourceName": "多多①号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/1" }, 
-{ "sourceName": "多多②号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/2" }, 
-{ "sourceName": "多多③号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/3" },
-{ "sourceName": "玖妖整合", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/4" },
-{ "sourceName": "精品①号", "sourceUrl": "https://download.kstore.space/download/2888/XB/多仓库.txt" }, 
-{ "sourceName": "精品②号", "sourceUrl": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/update_yuan.txt" }, 
-{ "sourceName": "精品③号", "sourceUrl": "https://www.xueximeng.com/tvbox/🌸超级仓库.json" }, 
-{ "sourceName": "精品④号", "sourceUrl": "https://www.xueximeng.com/tvbox/🦆精品仓库.json" }, 
-{ "sourceName": "baip①号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/1" },
-{ "sourceName": "baip②号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/2" },
-{ "sourceName": "baip③号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/3" },
-{ "sourceName": "baip④号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/4" },
-{ "sourceName": "baip⑤号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/5" },
-{ "sourceName": "baip⑥号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/6" },
-{ "sourceName": "baip⑦号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/7" },
-{ "sourceName": "baip⑧号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/8" },
-{ "sourceName": "baip⑨号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/9" },
-{ "sourceName": "baip⑩号", "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/10" },
-{ "sourceName": "baip①①号", "sourceUrl":"https://agit.ai/xx03253/apk_update/raw/branch/main/tv/update_yuan"},
-{ "sourceName": "jiekou①号", "sourceUrl": "http://jiekou.gq/zb/1.html" }, 
-{ "sourceName": "jiekou②号", "sourceUrl": "http://jiekou.gq/zb/2.html" }, 
-{ "sourceName": "jiekou③号", "sourceUrl": "http://jiekou.gq/zb/3.html" }, 
-{ "sourceName": "jiekou④号", "sourceUrl": "http://jiekou.gq/zb/4.html" }, 
-{ "sourceName": "jiekou⑤号", "sourceUrl": "http://jiekou.gq/zb/5.html" }, 
-{ "sourceName": "jiekou⑥号", "sourceUrl": "http://jiekou.gq/zb/6.html" }, 
-{ "sourceName": "jiekou⑦号", "sourceUrl": "http://jiekou.gq/zb/7.html" }, 
-{ "sourceName": "jiekou⑧号", "sourceUrl": "http://jiekou.gq/zb/8.html" }, 
-{ "sourceName": "jiekou⑨号", "sourceUrl": "http://jiekou.gq/zb/9.html" }, 
-{ "sourceName": "jiekou⑩号", "sourceUrl": "http://jiekou.gq/zb/10.html" }, 
-{ "sourceName": "jiekou①①号", "sourceUrl": "http://jiekou.gq/zb/11.html" }, 
-{ "sourceName": "jiekou①②号", "sourceUrl": "http://jiekou.gq/zb/12.html" }, 
-{ "sourceName": "jiekou①③号", "sourceUrl": "http://jiekou.gq/zb/13.html" }, 
-{ "sourceName": "jiekou①④号", "sourceUrl": "http://jiekou.gq/zb/14.html" }, 
-{ "sourceName": "jiekou①⑤号", "sourceUrl": "http://jiekou.gq/zb/15.html" }, 
-{ "sourceName": "jiekou①⑥号", "sourceUrl": "http://jiekou.gq/zb/16.html" }, 
-{ "sourceName": "jiekou①⑦号", "sourceUrl": "http://jiekou.gq/zb/17.html" }, 
-{ "sourceName": "jiekou①⑧号", "sourceUrl": "http://jiekou.gq/zb/18.html" }, 
-{ "sourceName": "jiekou①⑨号", "sourceUrl": "http://jiekou.gq/zb/19.html" }
+{ "sourceName": "精品①号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/1" }, 
+{ "sourceName": "精品②号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/2" }, 
+{ "sourceName": "精品③号", "sourceUrl": "https://download.kstore.space/download/2888/XB/多仓库.txt" }, 
+{ "sourceName": "精品④号", "sourceUrl": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/update_yuan.txt" }, 
+{ "sourceName": "精品⑤号", "sourceUrl": "https://www.xueximeng.com/tvbox/🌸超级仓库.json" }, 
+{ "sourceName": "精品⑥号", "sourceUrl": "https://www.xueximeng.com/tvbox/🦆精品仓库.json" }, 
+{ "sourceName": "安卓哥JSPY", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/JSPY" },
+{ "sourceName": "备用①号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/3" },
+{ "sourceName": "备用②号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/4" },
 
 ]
 }
