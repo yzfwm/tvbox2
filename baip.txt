@@ -1,0 +1,20 @@
+//baip多仓接口，作者主页：https://agit.ai/zqk219
+//转载请注明出处
+
+{
+"storeHouse": [
+
+{"sourceName":"baip①号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/1"},
+{"sourceName":"baip②号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/2"},
+{"sourceName":"baip③号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/3"},
+{"sourceName":"baip④号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/4"},
+{"sourceName":"baip⑤号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/5"},
+{"sourceName":"baip⑥号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/6"},
+{"sourceName":"baip⑦号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/7"},
+{"sourceName":"baip⑧号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/8"},
+{"sourceName":"baip⑨号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/9"},
+{"sourceName":"baip⑩号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/10"},
+{"sourceName":"baip①①号","sourceUrl":"https://agit.ai/xx03253/apk_update/raw/branch/main/tv/update_yuan"}
+
+]
+}
