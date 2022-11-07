@@ -1,0 +1,58 @@
+//此资源来自玖妖及其他网络搜集，此处仅整理合并为多仓接口。转载请注明出处，做人做事要凭良心。
+//更新时间：2022/11/7 08:45
+{
+    "urls": [
+        {
+           "url":"http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+           "name":"🚀玖妖001"
+        },
+        {
+          "url":"http://152.136.125.181:81/MM/dianbos/xianlu00.json",
+          "name":"🚀玖妖002"
+        },
+        {
+          "url":"http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
+          "name":"🚀玖妖003"
+        },
+        {
+         "url":"http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+         "name":"🚀玖妖004"
+        },
+        {
+          "url":"https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+          "name":"🚀超多线路有直播"
+        },
+       {
+          "url":"https://agit.ai/1357712527/tvbox/raw/branch/master/STVBox.txt",
+          "name":"🚀有直播有动漫"
+        },
+        {
+          "url":"https://agit.ai/767820774/ziyong2/raw/branch/master/33.txt",
+          "name":"🚀chengxueli有直播"
+        },
+        {
+          "url":"https://agit.ai/fenwe/TVBox/raw/branch/master/Box.json",
+          "name":"🚀超多线路py源"
+        },
+        {
+        "url":"https://agit.ai/767820774/h/raw/branch/master/mao3",
+        "name":"🚀无名py源"
+        },
+        {
+          "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+          "name":"🚀Yoursmile网络合集"
+        },
+        {
+         "url": "https://agit.ai/lsk617/y/raw/branch/master/X.json",
+         "name":"🚀lsk617有直播"
+        },
+        {
+           "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+           "name":"🚀祥祥影视有直播"
+        },
+        {
+           "url": "https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
+           "name":"🚀直播大全"
+        }
+     ]
+   }
