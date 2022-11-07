@@ -1,10 +1,12 @@
-//此资源来自玖妖及其他网络搜集，此处仅整理合并为多仓接口。转载请注明出处，做人做事要凭良心。
-//更新时间：2022/11/7 08:45
+//网络搜集整理，未验证，不知是否可用。
+//转载请注明出处，做人做事要凭良心
+//更新时间：2022/11/7 15:40
+
 {
     "urls": [
         {
-           "url":"http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
-           "name":"🚀玖妖001"
+          "url":"http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+          "name":"🚀玖妖001"
         },
         {
           "url":"http://152.136.125.181:81/MM/dianbos/xianlu00.json",
@@ -15,28 +17,28 @@
           "name":"🚀玖妖003"
         },
         {
-         "url":"http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
-         "name":"🚀玖妖004"
+          "url":"http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+          "name":"🚀玖妖004"
         },
         {
-           "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-           "name":"🚀祥祥影视"
+          "url":"http://www.yunwp.cn/api/v3/file/get/919/%E6%98%9F%E8%BE%B0%E5%BD%B1%E8%A7%86.json?sign=RizSFKTqJqWabr5xA_KjWHFIl0eEW6KbcdUxBEzf4ko%3D%3A0",
+          "name":"🚀小马线路0919"
         },
         {
-           "url": "https://agit.ai/zqk219/baip/raw/branch/main/tv.json",
-           "name":"🚀baip单线路"
+          "url":"http://www.yunwp.cn/api/v3/file/get/922/77.json?sign=kmcP9XMjbRXt0WCZWwdhZBLnJl21tGUVTGF0blYNCxI%3D%3A0",
+          "name":"🚀小马线路0922"
         },
         {
-         "url": "https://agit.ai/lsk617/y/raw/branch/master/X.json",
-         "name":"🚀lsk617线路"
-        },
-       {
-          "url":"https://agit.ai/1357712527/tvbox/raw/branch/master/STVBox.txt",
-          "name":"🚀STV动漫直播"
+          "url":"http://www.yunwp.cn/api/v3/file/get/924/0712.json?sign=yimExC6p3fCjaQYdUHfSYwXGCHcZLHvU5A0SEVHFRLs%3D%3A0",
+          "name":"🚀小马线路0924"
         },
         {
-           "url": "https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
-           "name":"🚀直播大全"
+          "url":"http://www.yunwp.cn/api/v3/file/get/930/20220827.json?sign=hS8yR7P5g1ii-IrsETTWpEZgJKGvhKM5GlR9TSjqx74%3D%3A0",
+          "name":"🚀小马线路0930"
+        },
+        {
+          "url":"http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+          "name":"🚀小马线路1007"
         }
      ]
    }
