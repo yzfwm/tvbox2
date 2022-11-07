@@ -1,0 +1,34 @@
+//此资源来自安卓哥，为JS和PY线路。转载请注明出处，做人做事要凭良心。
+//更新时间：2022/11/7 08:45
+{
+    "urls": [
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
+          "name":"🚀JS一号线"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json",
+          "name":"🚀JS二号线"
+        },
+        {
+         "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5tbo.json",
+         "name":"🚀JS三号线"
+        },
+        {
+           "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
+           "name":"🚀JS四号线"
+        },
+        {
+           "url": "http://www.xxx.xxx.json",
+           "name":"🚀JS待添加"
+        },
+        {
+         "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt",
+         "name":"🚀PY一号线"
+        },
+         {
+         "url": "http://www.xxx.xxx.json",
+         "name":"🚀PY待添加线"
+        }
+     ]
+   }
