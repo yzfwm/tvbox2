@@ -1,6 +1,6 @@
-//整理13条接口，部分资源可能已失效，排查工作量太大，作为备用吧。
+//整理13个网络搜集的接口，当前均可用，作者不详。
 //转载请注明出处，做人做事要凭良心
-//更新时间：2022/11/7 15:40
+//更新时间：2022/11/8 14:30
 
 {
     "urls": [
@@ -13,13 +13,13 @@
           "name":"💎太阳线路2"
         },
         {
-          "url":"http://dxawi.github.io/0/0.json",
-          "name":"💎dxawi0线路"
-        },
-        {
-          "url":"http://dxawi.github.io/0/1.json",
-          "name":"💎dxawi1线路"
-        },
+          "url":"http://dxawi.github.io/0/0.json",
+          "name":"💎dxawi0线路"
+        },
+        {
+          "url":"http://dxawi.github.io/0/1.json",
+          "name":"💎dxawi1线路"
+        },
         {
           "url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
           "name":"💎6666分享者"
@@ -29,12 +29,12 @@
           "name":"💎6666自用"
         },
         {
-          "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
-          "name": "💎chengxueli33"
+          "url":"https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+          "name":"💎chengxueli33"
         },
         {
-          "url": "https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt",
-          "name": "💎chengxueli44"
+          "url":"https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt",
+          "name":"💎chengxueli44"
         },
         {
           "url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json",
@@ -42,19 +42,19 @@
         },
         {
           "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-          "name":"💎祥祥影视"
+          "name": "💎祥祥影视"
         },
         {
-          "url": "https://agit.ai/lsk617/y/raw/branch/master/X.json",
-          "name":"💎lsk617线路"
+           "url": "https://agit.ai/lsk617/y/raw/branch/master/X.json",
+           "name":"💎lsk617线路"
         },
         {
           "url":"https://agit.ai/1357712527/tvbox/raw/branch/master/STVBox.txt",
           "name":"💎STV动漫直播"
         },
         {
-          "url": "https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
+          "url":"https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
           "name":"💎直播大全"
         }
-    ]
-}
+     ]
+   }
