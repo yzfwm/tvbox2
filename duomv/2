@@ -1,6 +1,6 @@
-//整理16个网络引用较多的接口，当前仍有效，我也不知道作者是谁。
+//整理14个网络引用较多的接口，当前仍有效，我也不知道作者是谁。
 //转载请注明出处，做人做事要凭良心
-//更新时间：2022/11/7 15:40
+//更新时间：2022/11/8 14:30
 
 {
     "urls": [
@@ -25,10 +25,6 @@
           "name":"🐹once678"
         },
         {
-          "url":"http://home.jundie.top:81/top98.json",
-          "name":"🐹俊佬路线"
-        },
-        {
           "url":"http://byyds.top/w.txt",
           "name":"🐹BYYDS线路"
         },
@@ -37,24 +33,20 @@
           "name":"🐹影视酷线路"
         },
         {
-          "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-          "name":"🐹甜蜜线路"
-        },
-        {
-          "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-          "name":"🐹agit/abc线路"
-        },
-        {
-          "url":"https://6dlj.cn/tang3",
-          "name":"🐹唐三线路"
+          "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+          "name":"🐹甜蜜线路"
         },
         {
-          "url":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
-          "name":"🐹PinkBird线路"
+          "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+          "name": "🐹agit/abc线路"
         },
         {
-          "url":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-          "name":"🐹FreeTV线路"
+          "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+          "name": "🐹PinkBird线路"
+        },
+        {
+           "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+           "name":"🐹FreeTV线路"
         },
         {
           "url":"https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
@@ -68,5 +60,5 @@
           "url":"http://www.dmtv.ml/mao/single.json",
           "name":"🐹乱世线路"
         }
-    ]
-}
+     ]
+   }
