@@ -1,0 +1,12 @@
+//自用接口，严禁扩散！！！严禁转载！！！
+//更新于 2022.11.9
+
+{
+"storeHouse": [
+
+{ "sourceName": "福利①号", "sourceUrl": "https://raw.fastgit.org/yutian88881/tvbox/main/duomv/fuli" }
+
+]
+}
+
+
