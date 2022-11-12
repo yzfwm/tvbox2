@@ -1,0 +1,88 @@
+//复刻自 https://github.com/tv-player/tvbox-line
+//转载请注明出处，做人做事要凭良心
+//更新时间：2022/11/7 15:40
+
+{
+    "urls": [
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/g6qm.json",
+          "name":"🔔line20221112-1"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/7l7n.json",
+          "name":"🔔line20221112-2"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json",
+          "name":"🔔line20221112-3"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
+          "name":"🔔line20221111"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
+          "name":"🔔line20221110"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json",
+          "name":"🔔line20221108-1"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+          "name":"🔔line20221108-2"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json",
+          "name":"🔔line20221108-3"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ns66.json",
+          "name":"🔔line20221107"
+        },
+        {
+          "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5tbo.json",
+          "name": "🔔line20221019"
+        },
+        {
+          "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fzns.json",
+          "name": "🔔line20221018"
+        },
+        {
+           "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pb9c.json",
+           "name":"🔔line20221012"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ypfe.json",
+          "name":"🔔line20221001"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/gv97.json",
+          "name":"🔔line20220930"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/489x.json",
+          "name":"🔔line20220927"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5vdu.json",
+          "name":"🔔line20220925-1"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/p6w5.json",
+          "name":"🔔line20220925-2"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/hp75.json",
+          "name":"🔔line20220925-3"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/dy4v.json",
+          "name":"🔔line20220925-4"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/sky3.json",
+          "name":"🔔line20220925-5"
+        }
+     ]
+   }
